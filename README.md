@@ -21,7 +21,7 @@ A full-stack Student Management System built as a learning project using Java, S
 
 ## Current Status
 
-
+This project is under development. The basic REST APIs have been practiced, and the application is being migrated from temporary in-memory storage to MySQL persistence.
 
 ## Local Setup
 
