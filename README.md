@@ -1,7 +1,7 @@
 
 # Student Management System
 
-A full-stack Student Management System built as a learning project using Java, Spring Boot, and MySQL.
+A full-stack Student Management System built as a learning project using Java, Spring Boot, and MySQL. 
 
 ## Tech Stack
 
@@ -35,3 +35,5 @@ This project is under development. The basic REST APIs have been practiced, and 
    ```
 
 5. The application will run at `http://localhost:8080`.
+
+## Grind is the only way to get success
