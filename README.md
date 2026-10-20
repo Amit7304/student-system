@@ -1,5 +1,5 @@
 
-# Student Management System
+# Student Management System (SMS)
 
 A full-stack Student Management System built as a learning project using Java, Spring Boot, and MySQL. 
 
